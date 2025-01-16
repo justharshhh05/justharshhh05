@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justharshhh05
 - 👀 I’m interested in projects,Digital marketing,Content Writting.
-- 🌱 I’m currently learning python,C#,React JS.
+- 🌱 I’m currently learning,React JS.
 - 💞️ I’m looking to collaborate on java,html,css,oop,database(SQL).
 - 📫 How to reach me E-mail Id->>rajanharsh005@gmail.com.
 - 😄 Pronouns: ...
